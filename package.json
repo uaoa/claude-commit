@@ -1,11 +1,11 @@
 {
-  "name": "@uaoa/ai-commit",
+  "name": "claude-ai-commit",
   "version": "1.0.0",
   "description": "AI-powered git commit message generator using Claude AI (API or Claude Code CLI)",
   "type": "module",
   "main": "generate-commit.mjs",
   "bin": {
-    "ai-commit": "./generate-commit.mjs"
+    "claude-ai-commit": "./generate-commit.mjs"
   },
   "scripts": {
     "commit": "node generate-commit.mjs"
@@ -38,10 +38,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/uaoa/ai-commit.git"
+    "url": "git+https://github.com/uaoa/claude-ai-commit.git"
   },
   "bugs": {
-    "url": "https://github.com/uaoa/ai-commit/issues"
+    "url": "https://github.com/uaoa/claude-ai-commit/issues"
   },
-  "homepage": "https://github.com/uaoa/ai-commit#readme"
+  "homepage": "https://github.com/uaoa/claude-ai-commit#readme"
 }

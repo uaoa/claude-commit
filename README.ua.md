@@ -20,18 +20,18 @@ AI-генератор commit messages для git використовуючи Cl
 
 ```bash
 # Встановити глобально
-npm install -g @uaoa/ai-commit
+npm install -g claude-ai-commit
 
 # Або використовувати з npx (без встановлення)
-npx @uaoa/ai-commit
+npx claude-ai-commit
 ```
 
 ### Варіант B: Локальне встановлення (для проєкту)
 
 1. **Клонуйте або завантажте репозиторій**
    ```bash
-   git clone https://github.com/uaoa/ai-commit.git
-   cd ai-commit
+   git clone https://github.com/uaoa/claude-ai-commit.git
+   cd claude-ai-commit
    ```
 
 2. **Встановіть залежності**
@@ -69,8 +69,8 @@ npx @uaoa/ai-commit
 
 3. **Клонуйте репо і встановіть залежності**
    ```bash
-   git clone https://github.com/uaoa/ai-commit.git
-   cd ai-commit
+   git clone https://github.com/uaoa/claude-ai-commit.git
+   cd claude-ai-commit
    npm install
    ```
 
@@ -104,13 +104,13 @@ npx @uaoa/ai-commit
 2. **Запустіть генератор**
    ```bash
    # Якщо встановлено глобально
-   ai-commit
+   claude-ai-commit
 
    # Якщо використовуєте npm script
    npm run commit
 
    # Якщо використовуєте npx
-   npx @uaoa/ai-commit
+   npx claude-ai-commit
 
    # З вибором мови
    npm run commit -- --lang=en  # English
@@ -417,7 +417,7 @@ MIT License - детальніше в файлі LICENSE
 
 ## Підтримка
 
-- **Issues**: [GitHub Issues](https://github.com/uaoa/ai-commit/issues)
+- **Issues**: [GitHub Issues](https://github.com/uaoa/claude-ai-commit/issues)
 - **Документація**: [Anthropic Docs](https://docs.anthropic.com)
 - **Claude Code**: [Claude Code Docs](https://docs.claude.com/claude-code)
 
