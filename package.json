@@ -1,0 +1,47 @@
+{
+  "name": "@uaoa/ai-commit",
+  "version": "1.0.0",
+  "description": "AI-powered git commit message generator using Claude AI (API or Claude Code CLI)",
+  "type": "module",
+  "main": "generate-commit.mjs",
+  "bin": {
+    "ai-commit": "./generate-commit.mjs"
+  },
+  "scripts": {
+    "commit": "node generate-commit.mjs"
+  },
+  "keywords": [
+    "git",
+    "commit",
+    "ai",
+    "claude",
+    "conventional-commits",
+    "anthropic",
+    "commit-message",
+    "git-hooks",
+    "automation"
+  ],
+  "author": {
+    "name": "Zakharii Melnyk",
+    "url": "https://github.com/uaoa",
+    "email": "contact@uaoa.dev"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.68.0"
+  },
+  "optionalDependencies": {
+    "@anthropic-ai/sdk": "^0.68.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uaoa/ai-commit.git"
+  },
+  "bugs": {
+    "url": "https://github.com/uaoa/ai-commit/issues"
+  },
+  "homepage": "https://github.com/uaoa/ai-commit#readme"
+}
