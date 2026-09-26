@@ -423,10 +423,20 @@ MIT License - see LICENSE file for details
 
 ## Author
 
-**Zakharii Melnyk**
+**[Zakharii Melnyk](https://uaoa.github.io/)**, a Ukrainian full-stack engineer from Kyiv and founder of AOA. Builds web products, iOS apps and developer tools.
 
+- Website: [uaoa.github.io](https://uaoa.github.io/)
 - GitHub: [@uaoa](https://github.com/uaoa)
-- LinkedIn: [Zakharii Melnyk](https://www.linkedin.com/in/undef-zakhar/)
+- LinkedIn: [undef-zakhar](https://www.linkedin.com/in/undef-zakhar/)
+- YouTube: [@undefzakhar](https://www.youtube.com/@undefzakhar)
+- Telegram: [@undefZakhar](https://t.me/undefZakhar)
+
+Other projects:
+
+- [Claude Commit for VS Code](https://marketplace.visualstudio.com/items?itemName=ZakhariiMelnyk.claude-git-commit): the same generator as a VS Code extension
+- [whatsmyera.com](https://whatsmyera.com/): what happened during your lifetime
+- [wherethefuckismy.money](https://wherethefuckismy.money/): real purchasing power calculator for incomes in Ukraine
+- [AOA](https://aoa.com.ua/): connects people in person at venues and events
 
 ---
 

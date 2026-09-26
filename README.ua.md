@@ -423,10 +423,20 @@ MIT License - детальніше в файлі LICENSE
 
 ## Автор
 
-**Zakharii Melnyk**
+**[Захарій Мельник](https://uaoa.github.io/uk/)** (Zakharii Melnyk), український full-stack розробник із Києва і засновник AOA. Створює вебпродукти, iOS-застосунки та інструменти для розробників.
 
+- Сайт: [uaoa.github.io](https://uaoa.github.io/uk/)
 - GitHub: [@uaoa](https://github.com/uaoa)
-- LinkedIn: [Zakharii Melnyk](https://www.linkedin.com/in/undef-zakhar/)
+- LinkedIn: [undef-zakhar](https://www.linkedin.com/in/undef-zakhar/)
+- YouTube: [@undefzakhar](https://www.youtube.com/@undefzakhar)
+- Telegram: [@undefZakhar](https://t.me/undefZakhar)
+
+Інші проєкти:
+
+- [Claude Commit для VS Code](https://marketplace.visualstudio.com/items?itemName=ZakhariiMelnyk.claude-git-commit): той самий генератор як розширення VS Code
+- [whatsmyera.com](https://whatsmyera.com/): скільки подій відбулося за твоє життя
+- [wherethefuckismy.money](https://wherethefuckismy.money/): калькулятор реальної купівельної спроможності доходів в Україні
+- [AOA](https://aoa.com.ua/): зʼєднує людей наживо в закладах і на подіях
 
 ---
 
