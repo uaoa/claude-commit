@@ -436,7 +436,7 @@ Other projects:
 - [Claude Commit for VS Code](https://marketplace.visualstudio.com/items?itemName=ZakhariiMelnyk.claude-git-commit): the same generator as a VS Code extension
 - [whatsmyera.com](https://whatsmyera.com/): what happened during your lifetime
 - [wherethefuckismy.money](https://wherethefuckismy.money/): real purchasing power calculator for incomes in Ukraine
-- [AOA](https://aoa.com.ua/): connects people in person at venues and events
+- [AOA](https://aoa.com.ua/): on a mission to get people out more
 
 ---
 

@@ -436,7 +436,7 @@ MIT License - детальніше в файлі LICENSE
 - [Claude Commit для VS Code](https://marketplace.visualstudio.com/items?itemName=ZakhariiMelnyk.claude-git-commit): той самий генератор як розширення VS Code
 - [whatsmyera.com](https://whatsmyera.com/): скільки подій відбулося за твоє життя
 - [wherethefuckismy.money](https://wherethefuckismy.money/): калькулятор реальної купівельної спроможності доходів в Україні
-- [AOA](https://aoa.com.ua/): зʼєднує людей наживо в закладах і на подіях
+- [AOA](https://aoa.com.ua/): мета якої спонукати людей частіше виходити на вулицю
 
 ---
 
