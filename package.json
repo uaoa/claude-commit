@@ -5,7 +5,7 @@
   "type": "module",
   "main": "generate-commit.mjs",
   "bin": {
-    "claude-commit": "./generate-commit.mjs"
+    "claude-commit": "generate-commit.mjs"
   },
   "scripts": {
     "commit": "node generate-commit.mjs"
@@ -40,5 +40,16 @@
   "bugs": {
     "url": "https://github.com/uaoa/claude-commit/issues"
   },
-  "homepage": "https://github.com/uaoa/claude-commit#readme"
+  "homepage": "https://github.com/uaoa/claude-commit#readme",
+  "files": [
+    "generate-commit.mjs",
+    "ai-generator.mjs",
+    "git-utils.mjs",
+    "i18n.mjs",
+    "ui.mjs",
+    "README.md",
+    "README.ua.md",
+    "LICENSE",
+    ".env.example"
+  ]
 }
