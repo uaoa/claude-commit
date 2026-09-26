@@ -1,6 +1,6 @@
 {
   "name": "claude-commit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "AI-powered git commit message generator using Claude AI (API or Claude Code CLI)",
   "type": "module",
   "main": "generate-commit.mjs",
